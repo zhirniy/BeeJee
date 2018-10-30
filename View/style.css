@@ -1,0 +1,118 @@
+  
+   /*ТЕГИ*/
+
+    h4{
+      text-align: center;
+    }
+    input{
+      float:right;
+    }
+    p{
+     text-align:center;  
+    }
+
+
+    legend {
+        text-align:center;
+      }
+    textarea {
+        width: 90%;
+      }
+    h2{
+        text-align:center;
+      }
+
+    /*КЛАССЫ*/
+
+     .pstrnav{
+    color:darkred;
+    margin-left: 40%;
+    margin-top: 2%;
+
+    }
+    .checkbox{
+      float:left;
+    }
+    .del, .enter, .menu{
+      float:left;
+    }
+    .exit{
+      float:left;
+    }
+    .panel{
+      display:none;
+      padding: 0px;
+      margin: 0px;
+    }
+    .submit{
+      border: 1px solid #cecece;
+    }
+    .image{
+      max-width: 320px;
+      max-height: 240px;
+    }
+
+  /*ID*/
+
+   #prewiev{
+      top:0px;
+         display: none;
+         position: absolute;
+         z-index: 200;
+          opacity: .99;
+          width: 100%;
+     }
+
+    #message{
+        margin-top:320px;
+                  
+     }
+
+      
+
+      #close{
+        float:right;
+      }
+
+
+
+      #form1{
+     top:0px;
+     position: absolute;
+     z-index: 100;
+     width: 100%;
+         }
+
+     #admin{
+      margin-top:0px;
+      margin-left: 20px;
+      position: fixed;
+      margin-left: 50px;
+      z-index: 100;
+      opacity: .98;
+           }
+
+
+     #admin1{
+      margin-top:0px;
+      margin-left: 20px;
+     position: fixed;
+      margin-left: 50px;
+      z-index: 100;
+      opacity: .98;
+           }
+
+
+
+      #open, #submit, #sort{
+        float:right;
+      }
+
+      #sort{
+        margin-bottom: 10px;
+
+      }
+
+
+  
+   
